@@ -7,7 +7,7 @@ int main(){
     printf("Please insert your card\n");// insert 
     scanf("%lld",&card);
 
-    if(card==9813273454){
+    if(card==123456789){
         printf("Hello Jatin Soni\n");
         printf(">Press 1 to check the balance\n");
         printf(">Press 2 to the change the atm pin\n");
